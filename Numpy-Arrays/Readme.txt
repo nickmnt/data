@@ -1,0 +1,1 @@
+These jupyter notebooks explore numpy arrays and matrices.
