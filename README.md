@@ -10,7 +10,7 @@ Welcome 👋 to my **Machine Learning** repository, I built this repository over
 - [PyTorch](#pytorch)
 - [Tensorflow](#tensorflow)
 
-<h2 id="data-science">⭐️ Data Science</h2>
+<h2 id="data-science">⭐️ Data Science, Data Analysis</h2>
 
 - **Pandas -** Notebooks and folders only focused on Pandas, Links: [Introduction Series](https://github.com/nimamt/machine_learning/tree/master/Pandas), [Visualization](https://github.com/nimamt/machine_learning/tree/master/Pandas%20Data%20Visualization), [Exercises](https://github.com/nimamt/machine_learning/tree/master/Pandas-Exercises), [Pandas Bootcamp](https://github.com/nimamt/machine_learning/tree/master/practical-ds/pandas-bootcamp), [Pandas version 1 differences](https://github.com/nimamt/machine_learning/tree/master/practical-ds/pandas_v1)
 - **Numpy -** Notebooks and folders only focused on Numpy, Links: [Introduction](https://github.com/nimamt/machine_learning/tree/master/Numpy-Arrays)
