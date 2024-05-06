@@ -1,41 +1,43 @@
-# Data
-Welcome 👋 to my **Data** repository, I built this repository over the years to have a central source for my extraciricullar (except the small folder named university) studies of data analysis, machine learning, and AI using Python. Please utilize the Table of Contents for your convenience.
+# Data Analysis Portfolio
 
 ## 🧭 Table of Contents
 - [Data Science](#data-science)
-- [Reinforcement Learning](#reinforcement-learning)
-- [NLP](#nlp)
+- [Machine Learning](#machine-learning)
+- [Natural Language Processing (NLP)](#nlp)
 - [Computer Vision](#computer-vision)
 - [PyTorch](#pytorch)
 - [Tensorflow](#tensorflow)
 
-<h2 id="data-science">⭐️ Data Science, Data Analysis</h2>
+<h2 id="data-science">⭐️ Data Science and Data Analysis</h2>
 
-- **Pandas -** Notebooks and folders only focused on Pandas, Links: [Introduction Series](https://github.com/nimamt/machine_learning/tree/master/Pandas), [Visualization](https://github.com/nimamt/machine_learning/tree/master/Pandas%20Data%20Visualization), [Exercises](https://github.com/nimamt/machine_learning/tree/master/Pandas-Exercises), [Pandas Bootcamp](https://github.com/nimamt/machine_learning/tree/master/practical-ds/pandas-bootcamp), [Pandas version 1 differences](https://github.com/nimamt/machine_learning/tree/master/practical-ds/pandas_v1)
-- **Numpy -** Notebooks and folders only focused on Numpy, Links: [Introduction](https://github.com/nimamt/machine_learning/tree/master/Numpy-Arrays)
-- **Visualization (Seaborn & Matplotlib) -** Notebooks and folders with extensive visualization, Links: [Pandas Visualization](https://github.com/nimamt/machine_learning/tree/master/Pandas%20Data%20Visualization), [Matplotlib](https://github.com/nimamt/machine_learning/tree/master/Mathplotlib), [Seaborn](https://github.com/nimamt/machine_learning/tree/master/Seaborn), [Seaborn Exercises](https://github.com/nimamt/machine_learning/tree/master/Seaborn-Exercises), [Most of the extensive projects in the Practical Data Science folder](https://github.com/nimamt/machine_learning/tree/master/practical-ds)
-- **Traditional Machine Learning -** [10 ML models](https://github.com/nimamt/machine_learning/tree/master/Machine%20Learning), [Clustering University Exercise](https://github.com/nimamt/machine_learning/blob/master/university/bsc/ml_course/HW1.ipynb)
+- **Pandas:** Master the versatility of Pandas through a series of focused notebooks. Explore everything from basic operations to advanced data manipulation techniques. [Introduction Series](https://github.com/nimamt/machine_learning/tree/master/Pandas), [Data Visualization](https://github.com/nimamt/machine_learning/tree/master/Pandas%20Data%20Visualization), [Exercises](https://github.com/nimamt/machine_learning/tree/master/Pandas-Exercises), [Pandas Bootcamp](https://github.com/nimamt/machine_learning/tree/master/practical-ds/pandas-bootcamp), [Version Updates](https://github.com/nimamt/machine_learning/tree/master/practical-ds/pandas_v1)
+- **Numpy:** Dive into the core of numerical computing with Numpy through dedicated notebooks that cover foundational to advanced topics. [Introduction](https://github.com/nimamt/machine_learning/tree/master/Numpy-Arrays)
+- **Visualization Techniques:** Gain expertise in data presentation with Seaborn & Matplotlib. Access a rich collection of visualizations that enhance data storytelling. [Pandas Visualization](https://github.com/nimamt/machine_learning/tree/master/Pandas%20Data%20Visualization), [Matplotlib](https://github.com/nimamt/machine_learning/tree/master/Mathplotlib), [Seaborn](https://github.com/nimamt/machine_learning/tree/master/Seaborn), [Seaborn Exercises](https://github.com/nimamt/machine_learning/tree/master/Seaborn-Exercises), [Advanced Projects](https://github.com/nimamt/machine_learning/tree/master/practical-ds)
 
-<h2 id="reinforcement-learning">⭐️ Reinforcement Learning</h2>
+<h2 id="machine-learning">⭐️ Traditional Machine Learning</h2>
 
-- **Papers -** [Implementation of 14 RL models](https://github.com/nimamt/machine_learning/tree/master/pytorch/reinforcement), [OpenAI exercises](https://github.com/nimamt/machine_learning/tree/master/pytorch/reinforcement/openai/exercises), [Custom Environments](https://github.com/nimamt/machine_learning/tree/master/pytorch/reinforcement/custom_env)
+- **Core Models:** Explore the development and tuning of ten essential machine learning models, designed to solve a variety of data problems. [10 ML Models](https://github.com/nimamt/machine_learning/tree/master/Machine%20Learning)
+- **Clustering and University Projects:** Engage with complex clustering techniques applied in an academic setting. [University Clustering Exercise](https://github.com/nimamt/machine_learning/blob/master/university/bsc/ml_course/HW1.ipynb)
 
-<h2 id="nlp">⭐️ Natural Language Processing</h2>
+<h2 id="nlp">⭐️ Natural Language Processing (NLP)</h2>
 
-- **Courses -** [NLP Course](https://github.com/nimamt/machine_learning/tree/master/nlp)
-- **Transformer papers implementation using PyTorch -** [PyTorch implementations](https://github.com/nimamt/machine_learning/tree/master/pytorch/implementations)
-- **Paper implementation as part of university course** - [ML university course project](https://github.com/nimamt/machine_learning/blob/master/university/bsc/ml_course/9822762211-FinalProject.ipynb)
+- **Comprehensive Course:** Embark on a structured journey into NLP with a curated course that covers both theory and application. [NLP Course](https://github.com/nimamt/machine_learning/tree/master/nlp)
+- **Transformers:** Leverage PyTorch to implement cutting-edge transformer models that drive modern NLP solutions. [Transformer Implementations](https://github.com/nimamt/machine_learning/tree/master/pytorch/implementations)
+- **Academic Projects:** Delve into project work that integrates NLP applications within an academic framework. [ML Course Project](https://github.com/nimamt/machine_learning/blob/master/university/bsc/ml_course/9822762211-FinalProject.ipynb)
 
 <h2 id="computer-vision">⭐️ Computer Vision</h2>
 
-- **Course -** [CV course](https://github.com/nimamt/machine_learning/tree/master/cv)
-- **NLP transformers are very similar to vision tranformers -** [See NLP](#nlp)
+- **Dedicated Course:** Gain critical insights into computer vision technologies and their applications across various sectors. [CV Course](https://github.com/nimamt/machine_learning/tree/master/cv)
+- **Cross-Domain Applications:** Understand the similarities and applications of NLP transformers in vision-based models. [See NLP Section](#nlp)
 
 <h2 id="pytorch">⭐️ PyTorch</h2>
 
-- **Courses -** [PyTorch official tutorials](https://github.com/nimamt/machine_learning/tree/master/pytorch)
-- **Application -** [Reinforcement Learning](#reinforcement-learning), [NLP](#nlp)
+- **Official Tutorials and Beyond:** Explore official PyTorch tutorials along with my personal projects that extend its capabilities in real-world scenarios. [PyTorch Tutorials](https://github.com/nimamt/machine_learning/tree/master/pytorch)
+- **Applications in AI:** See practical applications in areas such as reinforcement learning and NLP. [Reinforcement Learning](#reinforcement-learning), [NLP](#nlp)
 
 <h2 id="tensorflow">⭐️ Tensorflow</h2>
 
-- **Courses -** [Tensorflow course](https://github.com/nimamt/machine_learning/tree/master/tf), [Tensorflow models used on Kaggle datasets](https://github.com/nimamt/machine_learning/tree/master/tf/Projects), [CV course](https://github.com/nimamt/machine_learning/tree/master/cv), [NLP Course](https://github.com/nimamt/machine_learning/tree/master/nlp)
+- **Structured Learning:** Navigate through an extensive course on Tensorflow, illustrating its use in various machine learning paradigms. [Tensorflow Course](https://github
+
+.com/nimamt/machine_learning/tree/master/tf), [Kaggle Projects](https://github.com/nimamt/machine_learning/tree/master/tf/Projects)
+- **Cross-Disciplinary Knowledge:** Apply Tensorflow techniques in computer vision and natural language processing projects. [CV Course](https://github.com/nimamt/machine_learning/tree/master/cv), [NLP Course](https://github.com/nimamt/machine_learning/tree/master/nlp)
