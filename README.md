@@ -37,7 +37,5 @@
 
 <h2 id="tensorflow">⭐️ Tensorflow</h2>
 
-- **Structured Learning:** Navigate through an extensive course on Tensorflow, illustrating its use in various machine learning paradigms. [Tensorflow Course](https://github
-
-.com/nimamt/machine_learning/tree/master/tf), [Kaggle Projects](https://github.com/nimamt/machine_learning/tree/master/tf/Projects)
+- **Structured Learning:** Navigate through an extensive course on Tensorflow, illustrating its use in various machine learning paradigms. [Tensorflow Course](https://github.com/nimamt/machine_learning/tree/master/tf), [Kaggle Projects](https://github.com/nimamt/machine_learning/tree/master/tf/Projects)
 - **Cross-Disciplinary Knowledge:** Apply Tensorflow techniques in computer vision and natural language processing projects. [CV Course](https://github.com/nimamt/machine_learning/tree/master/cv), [NLP Course](https://github.com/nimamt/machine_learning/tree/master/nlp)
